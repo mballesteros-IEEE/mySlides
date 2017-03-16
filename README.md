@@ -1,5 +1,5 @@
 # mySlides
-Presentation of my experience in RF Explorer at the SWYP Congress (Women Students and Young Professionals)
+Presentation of my experience in RF Explorer at the SWYP Congress (Students Women and Young Professionals)
 
 ## Author
 
@@ -7,7 +7,7 @@ Presentation of my experience in RF Explorer at the SWYP Congress (Women Student
 
 ## Acknowledgement 
 
-Ariel Rocholl - Main Designer of RFExplorer https://github.com/arocholl
+[Ariel Rocholl](https://github.com/arocholl) - Main Designer of RFExplorer
 
 ## License
 
