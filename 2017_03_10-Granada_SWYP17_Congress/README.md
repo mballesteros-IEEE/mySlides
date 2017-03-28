@@ -4,11 +4,11 @@ Presentation of my experience in RF Explorer at the SWYP Congress (Students Wome
 
 # Participants
 
-67 IEEE Members. Most students of recent engineering courses. Also attended by young professionals and some university professor.
+67 IEEE Members. Most students of recent engineering courses. Also attended by [young professionals](http://yp.ieee.org/) and some university professor.
 
 # More Information
 
-[RF Explorer Articles] (http://j3.rf-explorer.com/articles-faq)
+[RF Explorer Articles](http://j3.rf-explorer.com/articles-faq)
 
 [Webpage of Congress](http://sites.ieee.org/sb-ugr/)
 
