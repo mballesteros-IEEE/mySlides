@@ -12,7 +12,7 @@ Presentation of my experience in RF Explorer at the SWYP Congress (Students Wome
 
 [Webpage of Congress](http://sites.ieee.org/sb-ugr/)
 
-[IEEE SB of Granada] (https://twitter.com/ieeegranada?lang=es)
+[IEEE SB of Granada](https://twitter.com/ieeegranada?lang=es)
 
 # Notes
 
