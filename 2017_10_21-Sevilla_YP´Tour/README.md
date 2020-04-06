@@ -1,6 +1,8 @@
 # Conference
 
-Presentation of first Young Professionals´Tour in Sevilla during IEEE Day. 6 Speakers
+Presentation of first Young Professionals´Tour in Sevilla during IEEE Day. I have the honor to be a moderator of the round table.
+
+6 Speakers of high tech level: 
 
 •	Pablo Aguilera Bonet - Senior Researcher on Wireless Communications en GALGUS
 •	Patricio Berbel Cifuentes - STEM/Robotic Teacher. COITTA/AAGIT Representative
@@ -24,6 +26,7 @@ Presentation of first Young Professionals´Tour in Sevilla during IEEE Day. 6 Sp
 # Special Thanks
 
 YP Team Spain
+
 Emilio Gomez Mansilla (Elche) 
 Jesús Rodríguez Venzal (Granada) 
 Rubén Martinez Sandoval (Cartagena) 
