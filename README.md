@@ -9,11 +9,12 @@ Presentation of my experience in differents congress and webinar in wich I parti
 
 ## Author
 
-[Manuel Ballesteros](https://github.com/mballesteros-IEEE) 
+[Manuel Ballesteros]
+[Github](https://github.com/mballesteros-IEEE) 
 
 ## Acknowledgement 
 
-[Vinko  Lešić] (https://www.linkedin.com/in/vinkolesic/) - Chair IEEE Region 8 YP - Assistant Professor in University Zagreb
+[Vinko  Lešić](https://www.linkedin.com/in/vinkolesic/) - Chair IEEE Region 8 YP - Assistant Professor in University Zagreb
 
 [Ariel Rocholl](https://github.com/arocholl) - Main Designer of RFExplorer
 
