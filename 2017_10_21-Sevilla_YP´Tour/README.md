@@ -4,12 +4,12 @@ Presentation of first Young Professionals´Tour in Sevilla during IEEE Day. I ha
 
 6 Speakers of high tech level: 
 
-•	Pablo Aguilera Bonet - Senior Researcher on Wireless Communications en GALGUS
-•	Patricio Berbel Cifuentes - STEM/Robotic Teacher. COITTA/AAGIT Representative
-•	Javier Galnares - HW Engineer at ALTER TECHNOLOGY TÜV NORD
-•	Ana Isabel García Noguer - Systems Technician at ISOTROL - Recommended by WIE
-•	Christian López Espínola- Senior Software Developer at LINGOTEK
-•	Pablo Pérez García - Researcher at Instituto de Microelectrónica de Sevilla, Universidad de Sevilla
+ * Pablo Aguilera Bonet - Senior Researcher on Wireless Communications en GALGUS
+ * Patricio Berbel Cifuentes - STEM/Robotic Teacher. COITTA/AAGIT Representative
+ * Javier Galnares - HW Engineer at ALTER TECHNOLOGY TÜV NORD
+ * Ana Isabel García Noguer - Systems Technician at ISOTROL - Recommended by WIE
+ * Christian López Espínola- Senior Software Developer at LINGOTEK
+ * Pablo Pérez García - Researcher at Instituto de Microelectrónica de Sevilla, Universidad de Sevilla
 
 # Participants
 
@@ -27,8 +27,8 @@ Presentation of first Young Professionals´Tour in Sevilla during IEEE Day. I ha
 
 YP Team Spain
 
-Emilio Gomez Mansilla (Elche) 
-Jesús Rodríguez Venzal (Granada) 
-Rubén Martinez Sandoval (Cartagena) 
-Juan Emilio Zurita (Sevilla)
-Ramón Carrasco Borrego (La Coruña)
+ * Emilio Gomez Mansilla (Elche) 
+ * Jesús Rodríguez Venzal (Granada) 
+ * Rubén Martinez Sandoval (Cartagena) 
+ * Juan Emilio Zurita (Sevilla)
+ * Ramón Carrasco Borrego (La Coruña)
