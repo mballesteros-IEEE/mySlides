@@ -1,6 +1,6 @@
 # Conference
 
-Presentation of Young Professionals´Tour - Quarentine Edition. I have the honor to be a speech of the round table.
+Presentation of Young Professionals´Tour - Quarentine Edition. I have the honor to be a speaker of the round table.
 COVID-19 situation forces to cancel SWYP Zaragoza that previously hosted this event.
 
 5 Speakers of high tech level: 

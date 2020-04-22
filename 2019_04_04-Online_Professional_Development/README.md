@@ -9,7 +9,7 @@ The industrial and service sectors await your knowledge, but you are young, inex
 Speaker: Manuel Ballesteros
 Region 8 YP Team Member
 
-Conference in the same day with Javier Andrés Pérez - GMV Software Engineer also participated with talk "Agile methodology and microservices"
+Conference in the same day at Javier Andrés Pérez - GMV Software Engineer also participated with talk "Agile methodology and microservices"
 
 #Author
 
