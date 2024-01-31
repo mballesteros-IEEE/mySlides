@@ -24,7 +24,6 @@ Presentation of my experience in differents congress and webinars in wich I part
 ## Acknowledgement 
 
 [Vinko  Lešić](https://www.linkedin.com/in/vinkolesic/) - Chair IEEE Region 8 YP - Assistant Professor in University Zagreb
-
 [Ariel Rocholl](https://github.com/arocholl) - Main Designer of RFExplorer
 
 ## License
